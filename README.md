@@ -1,0 +1,1 @@
+This is a theme that turns the QAM colum for selecting different menus on the righthand side

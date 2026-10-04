@@ -1,0 +1,12 @@
+{
+  "name": "QAM Select bar right-hand Side",
+  "author": "Baloo",
+  "manifest_version": 4,
+  "version": "v1.0",
+  "inject": {
+    "shared.css": [
+      "QuickAccess"
+    ]
+  },
+  "id": "891c4928-a815-4d03-972d-efe98fa4589f"
+}
