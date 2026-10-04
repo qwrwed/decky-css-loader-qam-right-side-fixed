@@ -1,1 +1,1 @@
-This is a theme that turns the QAM colum for selecting different menus on the righthand side
+This is a theme that moves the QAM columm for selecting different menus to the right edge of the screen.
